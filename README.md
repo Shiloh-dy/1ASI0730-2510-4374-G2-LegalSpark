@@ -80,3 +80,117 @@ A continuación, se utilizará esta metodología para analizar el caso de LegalS
 #### ¿Qué lleva a la persona a usar el producto?
 
  La necesidad de resolver dudas legales, generar documentos, formalizar el negocio o evitar problemas jurídicos futuros.
+
+# 1.2.2 Lean UX Process
+
+Lean UX es un enfoque centrado en la colaboración continua y la mejora mediante la experimentación, dejando en segundo plano la creación de documentación extensa. A diferencia de los métodos tradicionales que buscan desarrollar productos finales completamente detallados desde el inicio, esta metodología promueve que los equipos de diseño y desarrollo trabajen juntos para crear prototipos funcionales y llevar a cabo pruebas rápidas con usuarios reales y en situaciones auténticas. Esto permite validar hipótesis de manera temprana y hacer ajustes basados en evidencia real. El propósito fundamental de Lean UX es minimizar el desperdicio de recursos y mejorar la eficiencia en el proceso de desarrollo, brindando a los equipos la capacidad de adaptarse con mayor agilidad a las necesidades reales del usuario (Gothelf & Seiden, 2013).
+
+En el caso de LegalSpark, este enfoque permite construir soluciones legales para emprendedores de manera iterativa, probando funcionalidades clave con usuarios reales para garantizar que la plataforma responda de forma precisa a sus problemas legales y expectativas específicas.
+
+## 1.2.2.1 Lean UX Problem Statements
+
+- ¿Cómo podemos ofrecer a los emprendedores una herramienta que los guíe legalmente desde la idea hasta la formalización de su negocio, sin depender de costosos abogados tradicionales?
+- ¿Cómo podemos reducir la inseguridad jurídica de quienes emprenden sin conocimientos legales, a través de una experiencia digital accesible y confiable?
+- ¿Cómo facilitamos el acceso a plantillas, diagnósticos y asesoría personalizada que permitan prevenir errores jurídicos comunes?
+- ¿Cómo podemos integrar tecnología (como IA) para ofrecer asistencia legal precisa, rápida y contextualizada?
+- ¿Cómo diseñamos una plataforma legal atractiva tanto para emprendedores como para abogados, fomentando un ecosistema colaborativo?
+
+## 1.2.2.2 Lean UX Assumptions
+
+### Business Outcomes
+
+- Creemos que los emprendedores necesitan una herramienta accesible y automatizada para resolver sus necesidades legales básicas.
+- Creemos que al ofrecer diagnósticos interactivos, plantillas personalizables y asesoría especializada, reduciremos los errores legales en nuevos negocios.
+- Pensamos que muchos profesionales del derecho buscan digitalizar su práctica y que una plataforma colaborativa puede atraerlos.
+- Generaremos ingresos mediante planes de suscripción diferenciados (freemium, premium, pro).
+- Superaremos a la competencia ofreciendo una solución integral, interactiva y adaptada a las necesidades específicas del emprendedor.
+
+### User Outcomes
+
+**¿Quién será nuestro usuario?**  
+Emprendedores en etapa de creación o formalización de negocios y abogados independientes que desean digitalizar su práctica.
+
+**¿Dónde encaja el producto en su vida?**  
+En el proceso de tomar decisiones legales, redactar contratos, formalizar la empresa o resolver conflictos jurídicos.
+
+**¿Qué problemas podrían surgir?**  
+Desconfianza en la precisión de la IA, resistencia al cambio o poca familiaridad digital. Lo abordaremos con guías claras, soporte y una experiencia de usuario amigable.
+
+**¿Qué características valoran?**
+- Plantillas legales
+- Diagnóstico legal
+- Asistente con IA
+- Gestión documental
+- Asesorías personalizadas
+- Biblioteca legal
+- Red de colaboración
+
+## 1.2.2.3 Lean UX Hypothesis Statements
+
+**Hipótesis 1:**  
+Creemos que los emprendedores que utilizan plantillas y el generador de contratos automatizado cometerán menos errores legales en los primeros tres meses de operación.  
+Sabremos que estamos en lo correcto si más del 70% reporta haber evitado problemas legales o haber formalizado su empresa con éxito.
+
+**Hipótesis 2:**  
+Creemos que los abogados que usen el plan PRO aumentarán su eficiencia y alcance de clientes gracias a las herramientas digitales.  
+Sabremos que estamos en lo correcto si al menos el 60% reporta una mejora en la gestión de citas, documentos y atención al cliente.
+
+## 1.2.2.4 Lean UX Canvas
+
+<p align="center">
+  <img src="images/Lean UX Canvas.png" alt="Gráfico de errores manuales" width="500">
+</p>
+
+## 1.3 Segmentos objetivo
+
+### Segmento objetivo 1: Emprendedores individuales
+
+#### Aspectos demográficos:
+- **Sexo:** Masculino y femenino
+- **Edades:** 20 - 45 años
+- **Nivel socioeconómico:** Clases B y C (media-alta y media)
+- **Estado civil:** Solteros o en pareja, sin hijos o con responsabilidades personales limitadas
+
+#### Aspectos geográficos:
+- **Nacionalidad:** Peruana
+- **Zona geográfica en la que vive:** Urbana
+- **Departamento:** Lima Metropolitana, Arequipa, Trujillo, y otras ciudades con ecosistemas emprendedores activos
+
+#### Aspectos psicográficos:
+- Personas que están iniciando un negocio y necesitan orientación legal básica para formalizarlo o protegerlo.
+- Buscan soluciones digitales accesibles que les permitan evitar errores legales comunes sin necesidad de contratar un abogado.
+- Son autodidactas, se informan por su cuenta, y valoran herramientas que les ahorren tiempo, dinero y esfuerzo.
+- Priorizan la prevención legal y desean tener claridad sobre contratos, términos legales, registros, y normativas.
+
+---
+
+### Segmento objetivo 2: Fundadores de startups o pequeñas empresas (Pymes)
+
+#### Aspectos demográficos:
+- **Sexo:** Masculino y femenino
+- **Edades:** 25 - 50 años
+- **Nivel socioeconómico:** Clases A, B y C (alta, media-alta y media)
+- **Estado civil:** Solteros, casados o convivientes, con o sin hijos
+
+#### Aspectos geográficos:
+- **Nacionalidad:** Peruana
+- **Zona geográfica en la que vive:** Urbana y suburbana
+- **Departamento:** Lima Metropolitana, principales polos de innovación y emprendimiento del país
+
+#### Aspectos psicográficos:
+- Personas que ya tienen un negocio en marcha y requieren apoyo en temas como contratos con proveedores, empleados, socios o clientes.
+- Están interesados en herramientas digitales que ofrezcan plantillas legales, diagnósticos de riesgos y asesoría puntual.
+- Tienen experiencia en el manejo de herramientas tecnológicas y valoran la automatización de procesos legales.
+- Les preocupa la sostenibilidad y legalidad de sus operaciones, y buscan evitar problemas legales que puedan frenar su crecimiento.
+
+---
+
+## Capítulo II: Requirements Elicitation & Analysis
+
+### 2.1 Competidores
+
+#### 2.1.1 Análisis competitivo
+
+<p align="center">
+  <img src="images/Analisis_Competitivo.png" alt="Gráfico de errores manuales" width="500">
+</p>

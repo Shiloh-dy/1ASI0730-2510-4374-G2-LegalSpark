@@ -16,6 +16,12 @@ LegalSpark es una startup tecnológica orientada a facilitar el acceso a servici
 **Carrera:** Ingeniería de Software  
 **Descripción:**  
 Me llamo Alexander Piero Fernandez Garfias, estudio  la carrera de Ing. de Software en la UPC. Mis conocimientos técnicos van en torno a Programación en lenguajes como C++, Dart, Java |
+| ![Jean](images/Jeanfoto.PNG) | 
+**Nombre:** Jeanpier Alexander Trujillo Mori
+**Código de estudiante:** U201523565  
+**Carrera:** Ingeniería de Software  
+**Descripción:**  
+Me llamo Jeanpier Alexander Trujillo Mori, estudio la carrera de Ingeniería de Software en la UPC. Mis conocimientos técnicos van en torno a Programación en lenguajes como C++,C#,Python  |
 
 ##  Solution Profile
 
